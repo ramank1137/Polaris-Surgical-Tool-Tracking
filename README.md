@@ -23,7 +23,7 @@ Polaris-Surgical-Tool-Tracking/
 ├── setup.sh                         # Wires ndiTrack to your local CombinedAPISample path and installs the module
 └── .DS_Store                        # macOS metadata (can be ignored)
 ```
-
+![Pipeline](./Gstreamer_pipeline.png)
 ### Key Components
 
 - **`ndiTrack.py`**
